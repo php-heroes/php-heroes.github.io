@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PHP Heroes</title>
+    <link>http://phpheros.dev/posts/</link>
+    <description>Recent content in Posts on PHP Heroes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Tue, 31 Mar 2020 21:38:17 +0200</lastBuildDate>
+    
+	<atom:link href="http://phpheros.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Episodi</title>
+      <link>http://phpheros.dev/posts/episodi/</link>
+      <pubDate>Tue, 31 Mar 2020 21:38:17 +0200</pubDate>
+      
+      <guid>http://phpheros.dev/posts/episodi/</guid>
+      <description>Ciao! come state?</description>
+    </item>
+    
+  </channel>
+</rss>
