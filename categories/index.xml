@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on PHP Heroes</title>
-    <link>https://www.phpheros.dev/categories/</link>
+    <link>https://www.phpheroes.dev/categories/</link>
     <description>Recent content in Categories on PHP Heroes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
     
-	<atom:link href="https://www.phpheros.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.phpheroes.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
